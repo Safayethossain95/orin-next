@@ -1,0 +1,95 @@
+{
+  "page": {
+    "title": "Wholesale",
+    "description": "Manage payments and account details for wholesale operations.",
+    "loading_text": "Loading wholesale profile..."
+  },
+  "state": {
+    "is_loading": false,
+    "is_active": false,
+    "is_wholesale": false,
+    "has_requested_wholesale": false,
+    "show_request": true,
+    "saving": false
+  },
+  "customer": {
+    "id": 701,
+    "title": "Sadia Rahman",
+    "customer_types": [1],
+    "total_purchase": 18450,
+    "total_balance": 2140,
+    "total_cashback_balance": 460,
+    "total_gift_card_balance": 1000,
+    "total_reward_points": 850,
+    "orders_pending": 2,
+    "orders_placed": 1,
+    "orders_confirmed": 1,
+    "orders_shipment": 1,
+    "orders_packaging": 1,
+    "orders_cancelled": 1,
+    "orders_returned": 0,
+    "orders_delivered": 12
+  },
+  "note": [
+    {
+      "key": "area",
+      "type": "text",
+      "title": "এরিয়ার নাম",
+      "value": "",
+      "placeholder": "এরিয়ার নাম লিখুন"
+    },
+    {
+      "key": "refer",
+      "type": "text",
+      "title": "রেফারেন্স কোড",
+      "value": "",
+      "placeholder": "রেফারেন্স কোড লিখুন"
+    },
+    {
+      "key": "nid",
+      "type": "text",
+      "title": "ভোটার আইডি",
+      "value": "",
+      "placeholder": "ভোটার আইডি লিখুন"
+    },
+    {
+      "key": "trade",
+      "type": "text",
+      "title": "ট্রেড লাইসেন্স",
+      "value": "",
+      "placeholder": "ট্রেড লাইসেন্স লিখুন"
+    }
+  ],
+  "packages": [
+    {
+      "id": 1,
+      "title": "Wholesale Starter Pack",
+      "translation": "Starter package for wholesale onboarding and product sourcing support.",
+      "description": "Starter package for wholesale onboarding and product sourcing support.",
+      "sub_title": "Starter Access",
+      "price": 1499,
+      "currency": "BDT",
+      "features": [
+        { "key": "Support", "value": "Dedicated onboarding guidance" },
+        { "key": "Products", "value": "Starter catalog access" },
+        { "key": "Delivery", "value": "Priority dispatch support" }
+      ],
+      "image": "https://placehold.co/320x220/f3f4f6/111827?text=Package"
+    },
+    {
+      "id": 2,
+      "title": "Wholesale Growth Pack",
+      "translation": "Growth package with bulk pricing support and extended product coverage.",
+      "description": "Growth package with bulk pricing support and extended product coverage.",
+      "sub_title": "Growth Access",
+      "price": 2499,
+      "currency": "BDT",
+      "features": [
+        { "key": "Support", "value": "Extended account assistance" },
+        { "key": "Products", "value": "Bulk-ready catalog access" },
+        { "key": "Discount", "value": "Improved wholesale margin" }
+      ],
+      "image": "https://placehold.co/320x220/f3f4f6/111827?text=Package"
+    }
+  ]
+}

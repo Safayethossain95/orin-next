@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "name": "Orin",
+    "tagline": "Curated marketplace for gadgets, home appliances, fashion and daily essentials.",
+    "description": "Orin is a modern storefront concept built for busy households who want fast discovery, flexible checkout and trusted after-sales support across lifestyle, home and tech categories."
+  },
+  "popular_links": [
+    {
+      "id": "popular-smart-watch",
+      "title": "Smart Watches",
+      "href": "/category/smart-watches"
+    },
+    {
+      "id": "popular-kitchen",
+      "title": "Kitchen Appliances",
+      "href": "/category/kitchen-appliances"
+    },
+    {
+      "id": "popular-wireless",
+      "title": "Wireless Earbuds",
+      "href": "/category/wireless-earbuds"
+    },
+    {
+      "id": "popular-security",
+      "title": "Security Cameras",
+      "href": "/category/security-cameras"
+    },
+    {
+      "id": "popular-home",
+      "title": "Home Essentials",
+      "href": "/category/home-essentials"
+    }
+  ],
+  "important_links": [
+    {
+      "id": "important-about",
+      "title": "About",
+      "href": "/page/about"
+    },
+    {
+      "id": "important-contact",
+      "title": "Contact",
+      "href": "/page/contact"
+    },
+    {
+      "id": "important-privacy",
+      "title": "Privacy Policy",
+      "href": "/page/privacy-policy"
+    },
+    {
+      "id": "important-terms",
+      "title": "Terms & Conditions",
+      "href": "/page/terms-conditions"
+    },
+    {
+      "id": "important-refund",
+      "title": "Return & Refund Policy",
+      "href": "/page/return-refund-policy"
+    }
+  ],
+  "contact": {
+    "head_office": "24/7 Online Retail Hub, Dhaka 1212, Bangladesh",
+    "phone": "+8801712345678",
+    "email": "support@orin.example"
+  },
+  "social_links": [
+    {
+      "id": "social-facebook",
+      "title": "Facebook",
+      "href": "https://www.facebook.com/",
+      "icon": "facebook"
+    },
+    {
+      "id": "social-instagram",
+      "title": "Instagram",
+      "href": "https://www.instagram.com/",
+      "icon": "instagram"
+    },
+    {
+      "id": "social-twitter",
+      "title": "Twitter",
+      "href": "https://www.twitter.com/",
+      "icon": "twitter"
+    },
+    {
+      "id": "social-youtube",
+      "title": "YouTube",
+      "href": "https://www.youtube.com/",
+      "icon": "youtube"
+    }
+  ],
+  "bottom_bar": {
+    "copyright_name": "Orin",
+    "developed_by_label": "developed by | BPONI",
+    "developed_by_href": "https://store.bponi.com"
+  }
+}

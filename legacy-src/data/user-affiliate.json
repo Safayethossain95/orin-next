@@ -1,0 +1,36 @@
+{
+  "summary": {
+    "title": "Affiliate",
+    "description": "Track affiliate members, referred orders, commission balance, and payout activity.",
+    "status": "Active affiliate account",
+    "referral_code": "ORIN-AFF-2048",
+    "referral_url": "https://orin.store.bponi.com/ref/ORIN-AFF-2048",
+    "available_balance": 18500,
+    "pending_commission": 7250,
+    "lifetime_commission": 164800,
+    "currency": "BDT"
+  },
+  "stats": [
+    { "id": "members", "label": "Affiliate Members", "value": 18, "unit": "people", "trend": "+4 this month" },
+    { "id": "orders", "label": "Referred Orders", "value": 126, "unit": "orders", "trend": "+21 this month" },
+    { "id": "conversion", "label": "Conversion Rate", "value": 12.4, "unit": "percent", "trend": "+2.1% vs last month" },
+    { "id": "paid", "label": "Paid Commission", "value": 139050, "unit": "money", "trend": "Last paid Apr 24" }
+  ],
+  "members": [
+    { "id": 1, "name": "Nusrat Jahan", "phone": "01710000003", "joined_at": "2026-04-02", "status": "Active", "orders": 34, "sales": 48200, "commission": 4820 },
+    { "id": 2, "name": "Fahim Rahman", "phone": "01812004012", "joined_at": "2026-03-19", "status": "Active", "orders": 28, "sales": 64100, "commission": 6410 },
+    { "id": 3, "name": "Sadia Islam", "phone": "01611008015", "joined_at": "2026-02-28", "status": "Pending Review", "orders": 12, "sales": 21450, "commission": 2145 },
+    { "id": 4, "name": "Tanvir Ahmed", "phone": "01990001422", "joined_at": "2026-01-11", "status": "Active", "orders": 52, "sales": 96000, "commission": 9600 }
+  ],
+  "orders": [
+    { "id": 1, "order_id": "AFF-ORD-1009", "member_name": "Fahim Rahman", "customer_name": "Mahmudul Hasan", "status": "Delivered", "ordered_at": "2026-04-28", "total": 15900, "commission": 1590 },
+    { "id": 2, "order_id": "AFF-ORD-1008", "member_name": "Nusrat Jahan", "customer_name": "Razia Sultana", "status": "Confirmed", "ordered_at": "2026-04-27", "total": 12490, "commission": 1249 },
+    { "id": 3, "order_id": "AFF-ORD-1007", "member_name": "Tanvir Ahmed", "customer_name": "Mizanur Rahman", "status": "Processing", "ordered_at": "2026-04-26", "total": 21990, "commission": 2199 },
+    { "id": 4, "order_id": "AFF-ORD-1006", "member_name": "Sadia Islam", "customer_name": "Sharmin Akter", "status": "Pending Payment", "ordered_at": "2026-04-25", "total": 3490, "commission": 349 }
+  ],
+  "payouts": [
+    { "id": 1, "request_id": "AFF-PAY-0424", "method": "bKash", "account": "01710000003", "status": "Paid", "requested_at": "2026-04-24", "amount": 14200 },
+    { "id": 2, "request_id": "AFF-PAY-0416", "method": "Bank", "account": "DBBL **** 2194", "status": "Paid", "requested_at": "2026-04-16", "amount": 18800 },
+    { "id": 3, "request_id": "AFF-PAY-0429", "method": "Nagad", "account": "01812004012", "status": "Pending", "requested_at": "2026-04-29", "amount": 7250 }
+  ]
+}

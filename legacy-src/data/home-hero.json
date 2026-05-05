@@ -1,0 +1,76 @@
+{
+  "announcement": "Super saver week is live now. Up to 45% off selected electronics and lifestyle products.",
+  "slides": [
+    {
+      "id": "hero-slide-1",
+      "image": "https://bponi.sgp1.cdn.digitaloceanspaces.com/bponi/file/762ff644-01f3-4e38-835e-c98f3d4a77ba.jpg",
+      "href": "#"
+    },
+    {
+      "id": "hero-slide-2",
+      "image": "https://bponi.sgp1.cdn.digitaloceanspaces.com/bponi/file/4290cf3f-3b7f-4f32-a5ee-2ee9d3f4ad39.jpg",
+      "href": "#"
+    },
+    {
+      "id": "hero-slide-3",
+      "image": "https://bponi.sgp1.cdn.digitaloceanspaces.com/bponi/file/0e286d01-e621-42d1-931f-ab3342b4bdb0.jpg",
+      "href": "#"
+    }
+  ],
+  "highlights": [
+    {
+      "title": "Fast Delivery",
+      "description": "Inside Dhaka in 24 hours"
+    },
+    {
+      "title": "Official Warranty",
+      "description": "Verified local distributors"
+    },
+    {
+      "title": "Easy Returns",
+      "description": "7 day replacement support"
+    }
+  ],
+  "flash_deals": [
+    {
+      "id": "deal-1",
+      "name": "Precision Grooming Trimmer",
+      "brand": "Orin Care",
+      "price": 2490,
+      "original_price": 3190,
+      "badge": "Hot"
+    },
+    {
+      "id": "deal-2",
+      "name": "Wireless Earbuds Duo",
+      "brand": "Auralink",
+      "price": 2890,
+      "original_price": 3690,
+      "badge": "Deal"
+    },
+    {
+      "id": "deal-3",
+      "name": "Smart Fitness Watch S3",
+      "brand": "Pulse",
+      "price": 3990,
+      "original_price": 4890,
+      "badge": "Save 18%"
+    },
+    {
+      "id": "deal-4",
+      "name": "Bin1 Electric Toothbrush",
+      "brand": "Bin1",
+      "price": 1790,
+      "original_price": 2290,
+      "badge": "Daily Pick"
+    },
+    {
+      "id": "deal-5",
+      "name": "Cordless Driver Mini",
+      "brand": "Toolix",
+      "price": 4590,
+      "original_price": 5290,
+      "badge": "New"
+    }
+  ]
+}

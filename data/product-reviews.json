@@ -1,0 +1,35 @@
+[
+  {
+    "id": "review-1",
+    "product_id": null,
+    "user_name": "Nusrat Jahan",
+    "user_avatar": "",
+    "rating": 5,
+    "description": "Product quality matched the description and delivery packaging was neat.",
+    "image": "",
+    "created_at": "2026-04-29T08:30:00.000Z",
+    "verified_purchase": true
+  },
+  {
+    "id": "review-2",
+    "product_id": null,
+    "user_name": "Tanvir Ahmed",
+    "user_avatar": "",
+    "rating": 4,
+    "description": "Good value for the price. Setup was simple and customer support responded quickly.",
+    "image": "",
+    "created_at": "2026-04-27T14:20:00.000Z",
+    "verified_purchase": true
+  },
+  {
+    "id": "review-3",
+    "product_id": null,
+    "user_name": "Razia Sultana",
+    "user_avatar": "",
+    "rating": 5,
+    "description": "The item arrived earlier than expected and worked well from the first use.",
+    "image": "",
+    "created_at": "2026-04-23T10:15:00.000Z",
+    "verified_purchase": true
+  }
+]

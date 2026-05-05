@@ -1,0 +1,237 @@
+{
+  "utility_links": [
+    "Help Center",
+    "Track Order",
+    "Store Locator",
+    "Sell with Us"
+  ],
+  "primary_links": [
+    "Home",
+    "Categories",
+    "New Product",
+    "Flash Sale",
+    "Brand",
+    "Collection"
+  ],
+  "sidebar_categories": [
+    {
+      "id": "mobiles-tablets",
+      "label": "Mobiles & Tablets",
+      "children": [
+        {
+          "id": "smartphones",
+          "label": "Smartphones",
+          "children": [
+            { "id": "android-phones", "label": "Android Phones" },
+            { "id": "flagship-phones", "label": "Flagship Phones" },
+            { "id": "budget-phones", "label": "Budget Phones" }
+          ]
+        },
+        {
+          "id": "tablets",
+          "label": "Tablets",
+          "children": [
+            { "id": "android-tablets", "label": "Android Tablets" },
+            { "id": "kids-tablets", "label": "Kids Tablets" },
+            { "id": "drawing-tablets", "label": "Drawing Tablets" }
+          ]
+        },
+        {
+          "id": "wearables",
+          "label": "Wearables",
+          "children": [
+            { "id": "smart-watches", "label": "Smart Watches" },
+            { "id": "fitness-bands", "label": "Fitness Bands" },
+            { "id": "buds-audio", "label": "Buds & Audio" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "computing",
+      "label": "Computing",
+      "children": [
+        {
+          "id": "laptops",
+          "label": "Laptops",
+          "children": [
+            { "id": "gaming-laptops", "label": "Gaming Laptops" },
+            { "id": "ultrabooks", "label": "Ultrabooks" },
+            { "id": "business-laptops", "label": "Business Laptops" }
+          ]
+        },
+        {
+          "id": "desktops",
+          "label": "Desktops",
+          "children": [
+            { "id": "all-in-one", "label": "All in One" },
+            { "id": "mini-pc", "label": "Mini PC" },
+            { "id": "gaming-rigs", "label": "Gaming Rigs" }
+          ]
+        },
+        {
+          "id": "storage",
+          "label": "Storage",
+          "children": [
+            { "id": "ssd-drives", "label": "SSD Drives" },
+            { "id": "hard-drives", "label": "Hard Drives" },
+            { "id": "pen-drives", "label": "Pen Drives" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "accessories",
+      "label": "Accessories",
+      "children": [
+        {
+          "id": "mobile-accessories",
+          "label": "Mobile Accessories",
+          "children": [
+            { "id": "chargers", "label": "Chargers" },
+            { "id": "cables", "label": "Cables" },
+            { "id": "power-banks", "label": "Power Banks" }
+          ]
+        },
+        {
+          "id": "computer-accessories",
+          "label": "Computer Accessories",
+          "children": [
+            { "id": "keyboard-mouse", "label": "Keyboard & Mouse" },
+            { "id": "webcams", "label": "Webcams" },
+            { "id": "headsets", "label": "Headsets" }
+          ]
+        },
+        {
+          "id": "travel-accessories",
+          "label": "Travel Accessories",
+          "children": [
+            { "id": "adapter-plugs", "label": "Adapter Plugs" },
+            { "id": "organizers", "label": "Organizers" },
+            { "id": "stands-holders", "label": "Stands & Holders" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "television",
+      "label": "Television",
+      "children": [
+        {
+          "id": "smart-tv",
+          "label": "Smart TV",
+          "children": [
+            { "id": "android-tv", "label": "Android TV" },
+            { "id": "google-tv", "label": "Google TV" },
+            { "id": "webos-tv", "label": "webOS TV" }
+          ]
+        },
+        {
+          "id": "display-size",
+          "label": "By Display Size",
+          "children": [
+            { "id": "tv-32", "label": "32 inch" },
+            { "id": "tv-43", "label": "43 inch" },
+            { "id": "tv-55", "label": "55 inch" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "home-appliances",
+      "label": "Home Appliances",
+      "children": [
+        {
+          "id": "kitchen-appliances",
+          "label": "Kitchen Appliances",
+          "children": [
+            { "id": "mixers", "label": "Mixers" },
+            { "id": "microwaves", "label": "Microwaves" },
+            { "id": "air-fryers", "label": "Air Fryers" }
+          ]
+        },
+        {
+          "id": "cleaning-appliances",
+          "label": "Cleaning Appliances",
+          "children": [
+            { "id": "vacuum-cleaners", "label": "Vacuum Cleaners" },
+            { "id": "steam-mops", "label": "Steam Mops" },
+            { "id": "washing-machines", "label": "Washing Machines" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "security-systems",
+      "label": "Security Systems",
+      "children": [
+        {
+          "id": "cctv",
+          "label": "CCTV",
+          "children": [
+            { "id": "bullet-camera", "label": "Bullet Camera" },
+            { "id": "dome-camera", "label": "Dome Camera" },
+            { "id": "nvr-dvr", "label": "NVR / DVR" }
+          ]
+        },
+        {
+          "id": "smart-security",
+          "label": "Smart Security",
+          "children": [
+            { "id": "doorbell-cam", "label": "Doorbell Cam" },
+            { "id": "wifi-camera", "label": "WiFi Camera" },
+            { "id": "motion-sensor", "label": "Motion Sensor" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "networking",
+      "label": "Networking",
+      "children": [
+        {
+          "id": "wifi-router",
+          "label": "WiFi Router",
+          "children": [
+            { "id": "dual-band", "label": "Dual Band" },
+            { "id": "mesh-wifi", "label": "Mesh WiFi" },
+            { "id": "business-router", "label": "Business Router" }
+          ]
+        },
+        {
+          "id": "network-tools",
+          "label": "Network Tools",
+          "children": [
+            { "id": "lan-cable", "label": "LAN Cable" },
+            { "id": "switches", "label": "Switches" },
+            { "id": "crimp-tools", "label": "Crimp Tools" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "networking2",
+      "label": "Security Cameras",
+      "children": [
+        {
+          "id": "wifi-router",
+          "label": "Camera 1",
+          "children": [
+            { "id": "dual-band", "label": "Dual Band" },
+            { "id": "mesh-wifi", "label": "Mesh WiFi" },
+            { "id": "business-router", "label": "Business Router" }
+          ]
+        },
+        {
+          "id": "network-tools",
+          "label": "Camera 2",
+          "children": [
+            { "id": "lan-cable", "label": "LAN Cable" },
+            { "id": "switches", "label": "Switches" },
+            { "id": "crimp-tools", "label": "Crimp Tools" }
+          ]
+        }
+      ]
+    }
+  ]
+}

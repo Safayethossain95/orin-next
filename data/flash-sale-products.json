@@ -1,0 +1,244 @@
+{
+  "data": {
+    "storeProducts": {
+      "edges": [
+        {
+          "node": {
+            "comparePrice": 780.0,
+            "currency": "BDT",
+            "discount": 0.0,
+            "features": [
+              { "key": "বিষয়", "value": "Best Selling Products" },
+              { "key": "মুল লেখক", "value": "" }
+            ],
+            "flashPrice": 780.0,
+            "id": 783470,
+            "images": [
+              {
+                "id": 1,
+                "image": "https://bponi.sgp1.cdn.digitaloceanspaces.com/bponi/file/00edc3fc-4ef0-40fb-bd8a-9d8b5fc1b3e8.jpg"
+              }
+            ],
+            "isContinueSelling": true,
+            "price": 780.0,
+            "quantity": 17.0,
+            "sku": "e5l1v",
+            "slug": "x10-white-laser-outdoor-led-flashlight-multi-functional-camping-lighting-flashlight-portable-rechargeable-work-lamp",
+            "thumbnail": "https://bponi.sgp1.cdn.digitaloceanspaces.com/bponi/store/f63e06b6-892f-42ff-9c93-24edb8485886.jpg",
+            "title": "X10 White Laser Outdoor LED Flashlight Multi-Functional Camping Lighting Flashlight Portable Rechargeable Work Lamp",
+            "translation": "",
+            "wholesale": [{ "id": 1, "maxOrder": 100, "minOrder": 10, "price": 525.0 }],
+            "wholesalePrice": 546.0
+          }
+        },
+        {
+          "node": {
+            "comparePrice": 2650.0,
+            "currency": "BDT",
+            "discount": 35.88679245283019,
+            "features": [{ "key": "বিষয়", "value": "Best Selling Products" }],
+            "flashPrice": 1699.0,
+            "id": 725721,
+            "images": [
+              {
+                "id": 1,
+                "image": "https://bponi.sgp1.cdn.digitaloceanspaces.com/bponi/file/568530da-9089-4b76-a94d-5d9c175cb635.jpg"
+              },
+              {
+                "id": 2,
+                "image": "https://bponi.sgp1.cdn.digitaloceanspaces.com/bponi/file/b848a787-5d4a-4c8f-a669-7001017f563d.jpg"
+              }
+            ],
+            "isContinueSelling": false,
+            "price": 1699.0,
+            "quantity": 0.0,
+            "sku": "fvo9g",
+            "slug": "mdhl-rechargeable-portable-vacuum-cleaner",
+            "thumbnail": "https://bponi.sgp1.cdn.digitaloceanspaces.com/bponi/store/5c59231b-0ab8-4612-8397-3e1887a6fff0.jpg",
+            "title": "MDHL Rechargeable Portable Vacuum Cleaner",
+            "translation": "",
+            "wholesale": [],
+            "wholesalePrice": 1420.0
+          }
+        },
+        {
+          "node": {
+            "comparePrice": 1550.0,
+            "currency": "BDT",
+            "discount": 55.483870967741936,
+            "features": [
+              { "key": "বিষয়", "value": "Best Selling Products" },
+              { "key": "মুল লেখক", "value": "" }
+            ],
+            "flashPrice": 690.0,
+            "id": 500318,
+            "images": [
+              {
+                "id": 1,
+                "image": "https://bponi.sgp1.cdn.digitaloceanspaces.com/bponi/file/be330931-7eed-4adf-ad99-f5c63942e5f5.jpg"
+              },
+              {
+                "id": 2,
+                "image": "https://bponi.sgp1.cdn.digitaloceanspaces.com/bponi/file/97292033-f6d0-44e6-b1fd-9ab7a31c5609.jpg"
+              }
+            ],
+            "isContinueSelling": true,
+            "price": 690.0,
+            "quantity": 44.0,
+            "sku": "ToBup",
+            "slug": "scalitt-7-speed-electric-egg-beater-and-mixer-for-cake-cream",
+            "thumbnail": "https://bponi.sgp1.cdn.digitaloceanspaces.com/bponi/store/c2ec0805-fb90-4103-932b-57d361d90d9e.jpg",
+            "title": "Scalitt 7 Speed Electric Egg Beater and Mixer for Cake Cream",
+            "translation": " Scarlett 7 Speed Electric Egg Beater and Mixer for Cake Cream",
+            "wholesale": [],
+            "wholesalePrice": 690.0
+          }
+        },
+        {
+          "node": {
+            "comparePrice": 800.0,
+            "currency": "BDT",
+            "discount": 51.24999999999999,
+            "features": [
+              { "key": "বিষয়", "value": "Best Selling Products" },
+              { "key": "মুল লেখক", "value": "" }
+            ],
+            "flashPrice": 390.0,
+            "id": 725724,
+            "images": [
+              {
+                "id": 1,
+                "image": "https://bponi.sgp1.cdn.digitaloceanspaces.com/bponi/file/7f16ce33-cf28-498e-9af1-a010855e7952.jpg"
+              },
+              {
+                "id": 2,
+                "image": "https://bponi.sgp1.cdn.digitaloceanspaces.com/bponi/file/9803dd9b-58d6-440b-8dff-0c2c9401ee2d.jpg"
+              }
+            ],
+            "isContinueSelling": true,
+            "price": 390.0,
+            "quantity": 9.0,
+            "sku": "0145f",
+            "slug": "high-quality-kitchen-foam-cleaner-spray-500ml",
+            "thumbnail": "https://bponi.sgp1.cdn.digitaloceanspaces.com/bponi/store/2d82f37b-9bec-4732-b5b8-8b7d78415aa4.jpg",
+            "title": "High Quality Kitchen Foam Cleaner Spray 500ML",
+            "translation": "",
+            "wholesale": [],
+            "wholesalePrice": 390.0
+          }
+        },
+        {
+          "node": {
+            "comparePrice": 850.0,
+            "currency": "BDT",
+            "discount": 42.35294117647059,
+            "features": [
+              { "key": "বিষয়", "value": "Best Selling Products" },
+              { "key": "মুল লেখক", "value": "" }
+            ],
+            "flashPrice": 490.0,
+            "id": 725723,
+            "images": [
+              {
+                "id": 1,
+                "image": "https://bponi.sgp1.cdn.digitaloceanspaces.com/bponi/file/1b7f1684-f008-4252-b64c-1e5af0299b61.jpg"
+              }
+            ],
+            "isContinueSelling": true,
+            "price": 490.0,
+            "quantity": 11.0,
+            "sku": "h0y2h",
+            "slug": "mini-torch-light",
+            "thumbnail": "https://bponi.sgp1.cdn.digitaloceanspaces.com/bponi/store/3495e05d-194b-4caf-adaa-8bfddce79efc.jpg",
+            "title": "Mini Torch Light",
+            "translation": "",
+            "wholesale": [],
+            "wholesalePrice": 490.0
+          }
+        },
+        {
+          "node": {
+            "comparePrice": 550.0,
+            "currency": "BDT",
+            "discount": 29.09090909090909,
+            "features": [],
+            "flashPrice": 390.0,
+            "id": 767029,
+            "images": [
+              {
+                "id": 1,
+                "image": "https://bponi.sgp1.cdn.digitaloceanspaces.com/bponi/file/6b7ca3d6-3deb-4d5b-bc9f-1635427aa32f.webp"
+              },
+              {
+                "id": 2,
+                "image": "https://bponi.sgp1.cdn.digitaloceanspaces.com/bponi/file/4b58e972-0975-4dd6-b05b-389babf8159f.webp"
+              }
+            ],
+            "isContinueSelling": true,
+            "price": 390.0,
+            "quantity": 9.0,
+            "sku": "khoi3",
+            "slug": "portable-rechargeable-mini-fan",
+            "thumbnail": "https://bponi.sgp1.cdn.digitaloceanspaces.com/bponi/store/d499e4d5-22ff-41ac-9c7f-dd7a1ffe8db4.webp",
+            "title": "Portable Rechargeable Mini Fan",
+            "translation": "",
+            "wholesale": [],
+            "wholesalePrice": 0.0
+          }
+        },
+        {
+          "node": {
+            "comparePrice": 1450.0,
+            "currency": "BDT",
+            "discount": 31.724137931034484,
+            "features": [{ "key": "বিষয়", "value": "Best Selling Products" }],
+            "flashPrice": 990.0,
+            "id": 765636,
+            "images": [
+              {
+                "id": 1,
+                "image": "https://bponi.sgp1.cdn.digitaloceanspaces.com/bponi/file/a53afb45-9a08-4cc9-a200-ee227092b283.webp"
+              }
+            ],
+            "isContinueSelling": true,
+            "price": 990.0,
+            "quantity": 10.0,
+            "sku": "jr16v",
+            "slug": "digital-blood-pressure-machine",
+            "thumbnail": "https://bponi.sgp1.cdn.digitaloceanspaces.com/bponi/store/5f292432-8b72-439d-aebe-150ba262bf30.webp",
+            "title": "Digital Blood Pressure Machine",
+            "translation": "",
+            "wholesale": [],
+            "wholesalePrice": 0.0
+          }
+        },
+        {
+          "node": {
+            "comparePrice": 3200.0,
+            "currency": "BDT",
+            "discount": 23.4375,
+            "features": [{ "key": "বিষয়", "value": "Best Selling Products" }],
+            "flashPrice": 0.0,
+            "id": 765723,
+            "images": [
+              {
+                "id": 1,
+                "image": "https://bponi.sgp1.cdn.digitaloceanspaces.com/bponi/file/07ed7171-9419-449e-9a5c-14f3a127a831.webp"
+              }
+            ],
+            "isContinueSelling": true,
+            "price": 2450.0,
+            "quantity": 13.0,
+            "sku": "uoeqf",
+            "slug": "portable-cordless-vacuum-cleaner",
+            "thumbnail": "https://bponi.sgp1.cdn.digitaloceanspaces.com/bponi/store/b5d8142e-e257-42b8-8c05-4d66e1392013.webp",
+            "title": "Portable Cordless Vacuum Cleaner",
+            "translation": "",
+            "wholesale": [],
+            "wholesalePrice": 0.0
+          }
+        }
+      ]
+    }
+  }
+}

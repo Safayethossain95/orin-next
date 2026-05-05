@@ -1,0 +1,53 @@
+{
+  "customer": {
+    "title": "Ankur Demo Store",
+    "phone": "01946-000021",
+    "address": "Mirpur, Dhaka",
+    "is_active": true,
+    "total_purchase": 248500,
+    "total_balance": 32000,
+    "total_cashback_balance": 2450,
+    "total_gift_card_balance": 1200,
+    "total_reward_points": 580,
+    "orders_pending": 4,
+    "orders_placed": 6,
+    "orders_confirmed": 8,
+    "orders_shipment": 3,
+    "orders_packaging": 2,
+    "orders_delivered": 28,
+    "orders_returned": 2,
+    "orders_cancelled": 1,
+    "payment_title": "bKash Merchant",
+    "payment_no": "01946000021",
+    "refer_code": "ANKUR-DEMO",
+    "note": [
+      { "key": "name", "title": "দোকানের নাম ?", "value": "Ankur Demo Store", "placeholder": "দোকানের নাম লেখুন" },
+      { "key": "area", "title": "এরিয়া নাম ?", "value": "Mirpur", "placeholder": "এরিয়া নাম লেখুন" },
+      { "key": "refer", "title": "রেফারেন্স কোড ?", "value": "ANKUR-DEMO", "placeholder": "রেফারেন্স কোড লেখুন" },
+      { "key": "nid", "title": "ভোটার আইডি ?", "value": "1990***********", "placeholder": "ভোটার আইডি লেখুন" },
+      { "key": "trade", "title": "ট্রেড লাইসেন্স ?", "value": "TR-2451", "placeholder": "ট্রেড লাইসেন্স লেখুন" }
+    ]
+  },
+  "orders": [
+    { "id": 1, "order_id": "OR-10294", "status": "Pending", "updated_at": "2 hours ago", "time": "1:45 PM Apr 28", "customer_name": "Morshedul Munna", "customer_phone": "01946000021", "total": 12500, "currency": "BDT" },
+    { "id": 2, "order_id": "OR-10283", "status": "Processing", "updated_at": "1 day ago", "time": "4:12 PM Apr 27", "customer_name": "Safayet Hossain", "customer_phone": "01812000011", "total": 21750, "currency": "BDT" },
+    { "id": 3, "order_id": "OR-10271", "status": "Delivered", "updated_at": "3 days ago", "time": "11:24 AM Apr 25", "customer_name": "Tanvir Ahmed", "customer_phone": "01711000022", "total": 5490, "currency": "BDT" },
+    { "id": 4, "order_id": "OR-10256", "status": "Cancel", "updated_at": "5 days ago", "time": "9:30 AM Apr 23", "customer_name": "Jannatul Ferdous", "customer_phone": "01611000033", "total": 3490, "currency": "BDT" }
+  ],
+  "payments": [
+    { "id": 1, "payment_id": "PAY-5012", "status": "Received", "updated_at": "1 hour ago", "method": "bKash", "amount": 12500, "currency": "BDT" },
+    { "id": 2, "payment_id": "PAY-4998", "status": "Processing", "updated_at": "2 days ago", "method": "Nagad", "amount": 21750, "currency": "BDT" },
+    { "id": 3, "payment_id": "PAY-4980", "status": "Receivable", "updated_at": "4 days ago", "method": "Bank", "amount": 5490, "currency": "BDT" }
+  ],
+  "wishlist": [
+    { "id": "wish-1", "product_id": "805", "slug": "luminous-zelio-1700-home-ups", "name": "Luminous Zelio 1700 Home UPS", "price": 21000, "original_price": 22500, "image": "" },
+    { "id": "wish-2", "product_id": "725723", "slug": "mini-torch-light", "name": "Mini Torch Light", "price": 490, "original_price": 850, "image": "" },
+    { "id": "wish-3", "product_id": "765636", "slug": "digital-blood-pressure-machine", "name": "Digital Blood Pressure Machine", "price": 990, "original_price": 1450, "image": "" },
+    { "id": "wish-4", "product_id": "951", "slug": "smart-led-tv-bundle", "name": "Smart LED TV Bundle", "price": 31990, "original_price": 36500, "image": "" }
+  ],
+  "team": [
+    { "id": 1, "name": "Rahim Uddin", "phone": "01710000001", "role": "Reseller", "sales": 84500 },
+    { "id": 2, "name": "Karim Hasan", "phone": "01710000002", "role": "Wholesale", "sales": 126000 },
+    { "id": 3, "name": "Nusrat Jahan", "phone": "01710000003", "role": "Affiliate", "sales": 48200 }
+  ]
+}

@@ -1,0 +1,610 @@
+{
+  "featured_products": [
+  {
+    "id": "featured-1",
+    "name": "HAVIT H2590BT Bluetooth Headphone",
+    "brand": "HAVIT",
+    "price": 1350,
+    "image": "https://bponi.sgp1.cdn.digitaloceanspaces.com/bponi/store/d0e2f7f9-9c6d-49d3-a4e7-87dfa0443d52.jpg",
+    "original_price": 1490,
+    "badge": "Flash",
+    "section_key": "featured"
+  },
+  {
+    "id": "featured-2",
+    "name": "ZKTeco uFace302 Multi-Biometric Time Attendance Terminal",
+    "brand": "ZKTeco",
+    "price": 30000,
+    "image": "https://bponi.sgp1.cdn.digitaloceanspaces.com/bponi/store/thumbnail-uface302_1.png.jpg",
+    "original_price": 32500,
+    "badge": "Sale",
+    "section_key": "featured"
+  },
+  {
+    "id": "featured-3",
+    "name": "Havit M9013 Smart Watch",
+    "brand": "HAVIT",
+    "price": 2750,
+    "image": "https://bponi.sgp1.cdn.digitaloceanspaces.com/bponi/store/8d328969-8c2d-41cc-8943-a80b5bd12a87.jpg",
+    "original_price": 2800,
+    "badge": "New",
+    "section_key": "featured"
+  },
+  {
+    "id": "featured-4",
+    "name": "HAVIT SK708 USB Speaker",
+    "brand": "HAVIT",
+    "price": 900,
+    "image": "https://bponi.sgp1.cdn.digitaloceanspaces.com/bponi/store/c5f24a7e-5027-46a6-9791-349ff47d1729.jpg",
+    "original_price": 990,
+    "badge": "Sale",
+    "section_key": "featured"
+  },
+  {
+    "id": "featured-5",
+    "name": "HAVIT M3 Bluetooth Speaker",
+    "brand": "HAVIT",
+    "price": 1500,
+    "image": "https://bponi.sgp1.cdn.digitaloceanspaces.com/bponi/store/7c28c3b6-c8fb-4b27-91d8-7ef43ac23ade.jpg",
+    "original_price": 1600,
+    "badge": "Hot",
+    "section_key": "featured"
+  },
+  {
+    "id": "featured-6",
+    "name": "HAVIT SK490 Wooden Speaker",
+    "brand": "HAVIT",
+    "price": 1100,
+    "image": "https://bponi.sgp1.cdn.digitaloceanspaces.com/bponi/store/0e00e9cc-bbaa-4c9d-a2b1-34086ed30080.jpg",
+    "original_price": 1250,
+    "badge": "Sale",
+    "section_key": "featured"
+  },
+  {
+    "id": "featured-7",
+    "name": "HAVIT M18 USB Desktop Speaker",
+    "brand": "HAVIT",
+    "price": 1100,
+    "image": "https://bponi.sgp1.cdn.digitaloceanspaces.com/bponi/store/756ad8f9-6d0a-4143-b75e-8b60ec8ad8b8.jpg",
+    "original_price": 1175,
+    "badge": "Trending",
+    "section_key": "featured"
+  },
+  {
+    "id": "featured-8",
+    "name": "Havit SK835BT Portable Bluetooth Speaker",
+    "brand": "HAVIT",
+    "price": 2350,
+    "image": "https://bponi.sgp1.cdn.digitaloceanspaces.com/bponi/store/bfee0eae-9fcd-47a2-bb10-246ce97b5b40.webp",
+    "original_price": 2450,
+    "badge": "Hot",
+    "section_key": "featured"
+  },
+  {
+    "id": "featured-9",
+    "name": "HAVIT SK800BT Bluetooth Speaker",
+    "brand": "HAVIT",
+    "price": 1390,
+    "image": "https://bponi.sgp1.cdn.digitaloceanspaces.com/bponi/store/bd954902-71b5-4fa0-873e-a75cd3f34f03.webp",
+    "original_price": 1500,
+    "badge": "Sale",
+    "section_key": "featured"
+  },
+  {
+    "id": "featured-10",
+    "name": "RONGTA RP80USW Thermal POS Printer",
+    "brand": "RONGTA",
+    "price": 15000,
+    "image": "https://bponi.sgp1.cdn.digitaloceanspaces.com/bponi/store/thumbnail-RP80USW_1.jpg",
+    "original_price": 15000,
+    "badge": "New",
+    "section_key": "featured"
+  }
+],
+  "product_sections": [
+    {
+      "id": "clothing",
+      "title": "Clothing",
+      "accent": "Seasonal picks for refined everyday wear",
+      "section_key": "fashion",
+      "products": [
+        {
+          "id": "fashion-1",
+          "name": "Rose Pink Kurti Set",
+          "brand": "Ethnica",
+          "price": 3490,
+          "original_price": 4190,
+          "badge": "15% off"
+        },
+        {
+          "id": "fashion-2",
+          "name": "Sand Beige Panjabi",
+          "brand": "Noor",
+          "price": 2890,
+          "original_price": 3590,
+          "badge": "Limited"
+        },
+        {
+          "id": "fashion-3",
+          "name": "Deep Plum Festive Kurta",
+          "brand": "Rong",
+          "price": 4290,
+          "original_price": 4990,
+          "badge": "New"
+        },
+        {
+          "id": "fashion-4",
+          "name": "Navy Longline Blazer",
+          "brand": "Atelier",
+          "price": 5190,
+          "original_price": 5990,
+          "badge": "Smart"
+        },
+        {
+          "id": "fashion-5",
+          "name": "Midnight Overcoat",
+          "brand": "Atelier",
+          "price": 5690,
+          "original_price": 6590,
+          "badge": "Best Seller"
+        },
+        {
+          "id": "fashion-6",
+          "name": "Classic Black Abaya",
+          "brand": "Modest",
+          "price": 4590,
+          "original_price": 5190,
+          "badge": "Popular"
+        }
+      ]
+    },
+    {
+      "id": "refrigerator",
+      "title": "Refrigerator",
+      "accent": "Compact to family-size cooling solutions",
+      "section_key": "appliances",
+      "products": [
+        {
+          "id": "fridge-1",
+          "name": "Single Door Cool 190L",
+          "brand": "Walton",
+          "price": 26990,
+          "original_price": 29500,
+          "badge": "Inverter"
+        },
+        {
+          "id": "fridge-2",
+          "name": "Mirror Finish 220L",
+          "brand": "Singer",
+          "price": 31990,
+          "original_price": 34500,
+          "badge": "Hot"
+        },
+        {
+          "id": "fridge-3",
+          "name": "Compact Office Fridge 90L",
+          "brand": "Sharp",
+          "price": 17990,
+          "original_price": 19890,
+          "badge": "Deal"
+        },
+        {
+          "id": "fridge-4",
+          "name": "Glass Door Premium 260L",
+          "brand": "LG",
+          "price": 42990,
+          "original_price": 46500,
+          "badge": "New"
+        },
+        {
+          "id": "fridge-5",
+          "name": "Bottom Mount 300L",
+          "brand": "Samsung",
+          "price": 54990,
+          "original_price": 58990,
+          "badge": "Best"
+        },
+        {
+          "id": "fridge-6",
+          "name": "Mini Beverage Cooler",
+          "brand": "Hisense",
+          "price": 14990,
+          "original_price": 16990,
+          "badge": "Office"
+        }
+      ]
+    },
+    {
+      "id": "ips-battery",
+      "title": "IPS & Battery",
+      "accent": "Reliable backup solutions for home and office",
+      "section_key": "power",
+      "products": [
+        {
+          "id": "power-1",
+          "name": "Pure Sine Wave IPS 850VA",
+          "brand": "Vision",
+          "price": 10490,
+          "original_price": 11290,
+          "badge": "Safe"
+        },
+        {
+          "id": "power-2",
+          "name": "Tubular Battery 150Ah",
+          "brand": "Volta",
+          "price": 18490,
+          "original_price": 19990,
+          "badge": "Top"
+        },
+        {
+          "id": "power-3",
+          "name": "Compact UPS 650VA",
+          "brand": "PowerPac",
+          "price": 4490,
+          "original_price": 5190,
+          "badge": "Deal"
+        },
+        {
+          "id": "power-4",
+          "name": "Backup Router Mini UPS",
+          "brand": "Toten",
+          "price": 2290,
+          "original_price": 2690,
+          "badge": "Useful"
+        },
+        {
+          "id": "power-5",
+          "name": "Inverter Battery 200Ah",
+          "brand": "Hamko",
+          "price": 21990,
+          "original_price": 23290,
+          "badge": "Heavy Duty"
+        },
+        {
+          "id": "power-6",
+          "name": "Home UPS 1200VA",
+          "brand": "Apollo",
+          "price": 12490,
+          "original_price": 13890,
+          "badge": "Popular"
+        }
+      ]
+    },
+    {
+      "id": "television",
+      "title": "Television",
+      "accent": "Streaming-ready panels with vivid display quality",
+      "section_key": "television",
+      "products": [
+        {
+          "id": "tv-1",
+          "name": "32 inch HD Smart TV",
+          "brand": "JVC",
+          "price": 18490,
+          "original_price": 19990,
+          "badge": "Android"
+        },
+        {
+          "id": "tv-2",
+          "name": "43 inch Frameless 4K TV",
+          "brand": "Haier",
+          "price": 33990,
+          "original_price": 35990,
+          "badge": "4K"
+        },
+        {
+          "id": "tv-3",
+          "name": "50 inch QLED Google TV",
+          "brand": "Hisense",
+          "price": 51990,
+          "original_price": 55990,
+          "badge": "Premium"
+        },
+        {
+          "id": "tv-4",
+          "name": "55 inch UHD Cinema TV",
+          "brand": "Sony",
+          "price": 78990,
+          "original_price": 84990,
+          "badge": "Cinema"
+        },
+        {
+          "id": "tv-5",
+          "name": "24 inch Compact LED TV",
+          "brand": "Walton",
+          "price": 12990,
+          "original_price": 14290,
+          "badge": "Budget"
+        },
+        {
+          "id": "tv-6",
+          "name": "65 inch 4K Smart TV",
+          "brand": "Samsung",
+          "price": 99990,
+          "original_price": 106990,
+          "badge": "Flagship"
+        }
+      ]
+    },
+    {
+      "id": "home-appliances",
+      "title": "Home Appliances",
+      "accent": "Everyday helpers for compact and family kitchens",
+      "section_key": "home",
+      "products": [
+        {
+          "id": "home-1",
+          "name": "Front Load Washing Machine",
+          "brand": "Panasonic",
+          "price": 44990,
+          "original_price": 48990,
+          "badge": "Wash"
+        },
+        {
+          "id": "home-2",
+          "name": "Microwave Oven 28L",
+          "brand": "Sharp",
+          "price": 16990,
+          "original_price": 18590,
+          "badge": "Kitchen"
+        },
+        {
+          "id": "home-3",
+          "name": "Air Fryer 6L Digital",
+          "brand": "Miyako",
+          "price": 7990,
+          "original_price": 8690,
+          "badge": "Healthy"
+        },
+        {
+          "id": "home-4",
+          "name": "Top Load Washer 8kg",
+          "brand": "Whirlpool",
+          "price": 38990,
+          "original_price": 41590,
+          "badge": "Family"
+        },
+        {
+          "id": "home-5",
+          "name": "Vacuum Cleaner Pro",
+          "brand": "Hitachi",
+          "price": 8990,
+          "original_price": 9990,
+          "badge": "Strong"
+        },
+        {
+          "id": "home-6",
+          "name": "Mini Rice Cooker 1.8L",
+          "brand": "Vision",
+          "price": 3290,
+          "original_price": 3790,
+          "badge": "Daily"
+        }
+      ]
+    },
+    {
+      "id": "best-selling-products",
+      "title": "Best Selling Products",
+      "accent": "Small-ticket favorites customers keep reordering",
+      "section_key": "bestseller",
+      "products": [
+        {
+          "id": "best-1",
+          "name": "Anti Hairfall Serum",
+          "brand": "Glow Lab",
+          "price": 990,
+          "original_price": 1290,
+          "badge": "Top"
+        },
+        {
+          "id": "best-2",
+          "name": "Electric Screwdriver Set",
+          "brand": "Toolix",
+          "price": 4690,
+          "original_price": 5290,
+          "badge": "Useful"
+        },
+        {
+          "id": "best-3",
+          "name": "Heavy Duty Drill Machine",
+          "brand": "Ingco",
+          "price": 6590,
+          "original_price": 7390,
+          "badge": "Workshop"
+        },
+        {
+          "id": "best-4",
+          "name": "Stainless Steel Blender Jar",
+          "brand": "Miyako",
+          "price": 2790,
+          "original_price": 3190,
+          "badge": "Kitchen"
+        },
+        {
+          "id": "best-5",
+          "name": "Ceramic Deep Fry Pan",
+          "brand": "Flora",
+          "price": 2190,
+          "original_price": 2690,
+          "badge": "Cook"
+        },
+        {
+          "id": "best-6",
+          "name": "Mini Facial Trimmer",
+          "brand": "Bin1",
+          "price": 1390,
+          "original_price": 1690,
+          "badge": "Beauty"
+        }
+      ]
+    },
+    {
+      "id": "electronics-gadgets",
+      "title": "Electronics & Gadgets",
+      "accent": "Desk, audio, and personal tech essentials",
+      "section_key": "gadgets",
+      "products": [
+        {
+          "id": "gadgets-1",
+          "name": "Bluetooth Neckband Pro",
+          "brand": "Auralink",
+          "price": 1690,
+          "original_price": 1990,
+          "badge": "Audio"
+        },
+        {
+          "id": "gadgets-2",
+          "name": "RGB Mechanical Keyboard",
+          "brand": "Redgear",
+          "price": 4290,
+          "original_price": 4690,
+          "badge": "Gaming"
+        },
+        {
+          "id": "gadgets-3",
+          "name": "USB Conference Speaker",
+          "brand": "Logi",
+          "price": 3890,
+          "original_price": 4290,
+          "badge": "Office"
+        },
+        {
+          "id": "gadgets-4",
+          "name": "Compact Smart Display",
+          "brand": "Nest",
+          "price": 7990,
+          "original_price": 8490,
+          "badge": "Smart"
+        },
+        {
+          "id": "gadgets-5",
+          "name": "Portable Thermal Printer",
+          "brand": "HPRT",
+          "price": 5890,
+          "original_price": 6390,
+          "badge": "Travel"
+        },
+        {
+          "id": "gadgets-6",
+          "name": "GaN Charger 65W",
+          "brand": "Anker",
+          "price": 2990,
+          "original_price": 3390,
+          "badge": "Fast"
+        }
+      ]
+    },
+    {
+      "id": "security-accessories",
+      "title": "Security Accessories",
+      "accent": "Keep homes and offices monitored around the clock",
+      "section_key": "security",
+      "products": [
+        {
+          "id": "security-1",
+          "name": "Outdoor Bullet Camera",
+          "brand": "Dahua",
+          "price": 2590,
+          "original_price": 2990,
+          "badge": "IP66"
+        },
+        {
+          "id": "security-2",
+          "name": "4 Channel DVR Recorder",
+          "brand": "Hikvision",
+          "price": 6290,
+          "original_price": 6990,
+          "badge": "CCTV"
+        },
+        {
+          "id": "security-3",
+          "name": "Motion Sensor Indoor Cam",
+          "brand": "IMOU",
+          "price": 3190,
+          "original_price": 3690,
+          "badge": "WiFi"
+        },
+        {
+          "id": "security-4",
+          "name": "Smart Doorbell Camera",
+          "brand": "Ezviz",
+          "price": 5290,
+          "original_price": 5790,
+          "badge": "Door"
+        },
+        {
+          "id": "security-5",
+          "name": "Full HD Dome Camera",
+          "brand": "Uniview",
+          "price": 2390,
+          "original_price": 2790,
+          "badge": "Indoor"
+        },
+        {
+          "id": "security-6",
+          "name": "NVR Storage Unit",
+          "brand": "Hikvision",
+          "price": 8990,
+          "original_price": 9690,
+          "badge": "Storage"
+        }
+      ]
+    },
+    {
+      "id": "networking",
+      "title": "Networking",
+      "accent": "Modern coverage for apartments, homes, and offices",
+      "section_key": "network",
+      "products": [
+        {
+          "id": "network-1",
+          "name": "Dual Band Gigabit Router",
+          "brand": "TP-Link",
+          "price": 3990,
+          "original_price": 4490,
+          "badge": "AC1200"
+        },
+        {
+          "id": "network-2",
+          "name": "Mesh WiFi Twin Pack",
+          "brand": "Mercusys",
+          "price": 8990,
+          "original_price": 9690,
+          "badge": "Mesh"
+        },
+        {
+          "id": "network-3",
+          "name": "5 Port Gigabit Switch",
+          "brand": "Netis",
+          "price": 1790,
+          "original_price": 2190,
+          "badge": "LAN"
+        },
+        {
+          "id": "network-4",
+          "name": "CAT6 Crimping Tool Kit",
+          "brand": "Ugreen",
+          "price": 1490,
+          "original_price": 1890,
+          "badge": "Install"
+        },
+        {
+          "id": "network-5",
+          "name": "Indoor Access Point",
+          "brand": "Ruijie",
+          "price": 5590,
+          "original_price": 6190,
+          "badge": "Business"
+        },
+        {
+          "id": "network-6",
+          "name": "Mini UPS for Router",
+          "brand": "Marsriva",
+          "price": 2490,
+          "original_price": 2890,
+          "badge": "Backup"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "shipping_options": [
+    {
+      "id": 1,
+      "title": "Standard Delivery",
+      "description": "Delivered within 2-3 working days inside major cities.",
+      "eta_label": "2-3 days",
+      "charge": 80
+    },
+    {
+      "id": 2,
+      "title": "Express Delivery",
+      "description": "Priority handling for urgent household and gadget orders.",
+      "eta_label": "24 hours",
+      "charge": 150
+    }
+  ],
+  "payment_options": [
+    {
+      "id": 1,
+      "title": "Cash on Delivery",
+      "note": "Pay in cash after the parcel reaches your doorstep.",
+      "fee": 0
+    },
+    {
+      "id": 2,
+      "title": "Online Payment",
+      "note": "Cards, mobile banking and wallet checkout supported.",
+      "fee": 20
+    }
+  ],
+  "promo_codes": [
+    {
+      "code": "ORIN100",
+      "title": "Launch voucher",
+      "discount_amount": 100
+    },
+    {
+      "code": "FREESHIP",
+      "title": "Free delivery coupon",
+      "discount_amount": 80
+    }
+  ]
+}
