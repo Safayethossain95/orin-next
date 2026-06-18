@@ -103,508 +103,155 @@
 ],
   "product_sections": [
     {
-      "id": "clothing",
-      "title": "Clothing",
-      "accent": "Seasonal picks for refined everyday wear",
-      "section_key": "fashion",
-      "products": [
-        {
-          "id": "fashion-1",
-          "name": "Rose Pink Kurti Set",
-          "brand": "Ethnica",
-          "price": 3490,
-          "original_price": 4190,
-          "badge": "15% off"
-        },
-        {
-          "id": "fashion-2",
-          "name": "Sand Beige Panjabi",
-          "brand": "Noor",
-          "price": 2890,
-          "original_price": 3590,
-          "badge": "Limited"
-        },
-        {
-          "id": "fashion-3",
-          "name": "Deep Plum Festive Kurta",
-          "brand": "Rong",
-          "price": 4290,
-          "original_price": 4990,
-          "badge": "New"
-        },
-        {
-          "id": "fashion-4",
-          "name": "Navy Longline Blazer",
-          "brand": "Atelier",
-          "price": 5190,
-          "original_price": 5990,
-          "badge": "Smart"
-        },
-        {
-          "id": "fashion-5",
-          "name": "Midnight Overcoat",
-          "brand": "Atelier",
-          "price": 5690,
-          "original_price": 6590,
-          "badge": "Best Seller"
-        },
-        {
-          "id": "fashion-6",
-          "name": "Classic Black Abaya",
-          "brand": "Modest",
-          "price": 4590,
-          "original_price": 5190,
-          "badge": "Popular"
-        }
-      ]
-    },
-    {
-      "id": "refrigerator",
-      "title": "Refrigerator",
-      "accent": "Compact to family-size cooling solutions",
+      "id": "refrigerators",
+      "title": "Refrigerators & Freezers",
+      "accent": "Advanced cooling solutions for every home",
       "section_key": "appliances",
       "products": [
         {
           "id": "fridge-1",
-          "name": "Single Door Cool 190L",
+          "name": "Walton 255L WCG-2E5-GDEL-XX",
           "brand": "Walton",
-          "price": 26990,
-          "original_price": 29500,
-          "badge": "Inverter"
+          "price": 38997.0,
+          "original_price": 38997.0,
+          "image": "https://bponi.sgp1.cdn.digitaloceanspaces.com/bponi/store/0b9d8b85-bd41-431b-ad99-ba09b4f7dd70.jpg",
+          "badge": "Popular"
         },
         {
           "id": "fridge-2",
-          "name": "Mirror Finish 220L",
-          "brand": "Singer",
-          "price": 31990,
-          "original_price": 34500,
-          "badge": "Hot"
+          "name": "Samsung 700L RS72R5001M9/D2 Gentle Silver Matt",
+          "brand": "Samsung",
+          "price": 147675.0,
+          "original_price": 147675.0,
+          "image": "https://bponi.sgp1.cdn.digitaloceanspaces.com/bponi/store/da02cc0c-82df-4690-a4b4-d10da3335011.jpg",
+          "badge": "Flagship"
         },
         {
           "id": "fridge-3",
-          "name": "Compact Office Fridge 90L",
+          "name": "Sharp 428 Liters Inverter Refrigerator SJ-EX495P-BK",
           "brand": "Sharp",
-          "price": 17990,
-          "original_price": 19890,
-          "badge": "Deal"
+          "price": 118000.0,
+          "original_price": 118000.0,
+          "image": "https://bponi.sgp1.cdn.digitaloceanspaces.com/bponi/store/3f18e6ca-f94f-48a8-a5f9-fe186bba827d.jpg",
+          "badge": "Inverter"
         },
         {
           "id": "fridge-4",
-          "name": "Glass Door Premium 260L",
-          "brand": "LG",
-          "price": 42990,
-          "original_price": 46500,
-          "badge": "New"
+          "name": "Electra Deep Freezer 245 Ltr Coffee Glass",
+          "brand": "Electra",
+          "price": 48800.0,
+          "original_price": 48800.0,
+          "image": "https://bponi.sgp1.cdn.digitaloceanspaces.com/bponi/store/34f8c4b5-84bd-43f9-92bc-daa3aa2d2141.jpg",
+          "badge": "New Arrival"
         },
         {
           "id": "fridge-5",
-          "name": "Bottom Mount 300L",
-          "brand": "Samsung",
-          "price": 54990,
-          "original_price": 58990,
-          "badge": "Best"
+          "name": "Electra No Frost Deep Freezer (EF28ONF25DG)",
+          "brand": "Electra",
+          "price": 60900.0,
+          "original_price": 60900.0,
+          "image": "https://bponi.sgp1.cdn.digitaloceanspaces.com/bponi/store/798d0b12-8b63-414f-ad3d-0965af6838d5.jpg",
+          "badge": "No Frost"
         },
         {
           "id": "fridge-6",
-          "name": "Mini Beverage Cooler",
-          "brand": "Hisense",
-          "price": 14990,
-          "original_price": 16990,
-          "badge": "Office"
+          "name": "Samsung Refrigerator RT29HAR9DBS/D3 | 275Ltr",
+          "brand": "Samsung",
+          "price": 58897.0,
+          "original_price": 58897.0,
+          "image": "https://bponi.sgp1.cdn.digitaloceanspaces.com/bponi/store/5691dfd6-1639-4fd9-b7fb-47b140be3371.jpg",
+          "badge": "Best Seller"
         }
       ]
     },
     {
-      "id": "ips-battery",
-      "title": "IPS & Battery",
-      "accent": "Reliable backup solutions for home and office",
-      "section_key": "power",
+      "id": "umrah-packages",
+      "title": "Umrah Packages",
+      "accent": "Planned spiritual journeys for 2026-2027",
+      "section_key": "travel",
       "products": [
         {
-          "id": "power-1",
-          "name": "Pure Sine Wave IPS 850VA",
-          "brand": "Vision",
-          "price": 10490,
-          "original_price": 11290,
-          "badge": "Safe"
-        },
-        {
-          "id": "power-2",
-          "name": "Tubular Battery 150Ah",
-          "brand": "Volta",
-          "price": 18490,
-          "original_price": 19990,
-          "badge": "Top"
-        },
-        {
-          "id": "power-3",
-          "name": "Compact UPS 650VA",
-          "brand": "PowerPac",
-          "price": 4490,
-          "original_price": 5190,
-          "badge": "Deal"
-        },
-        {
-          "id": "power-4",
-          "name": "Backup Router Mini UPS",
-          "brand": "Toten",
-          "price": 2290,
-          "original_price": 2690,
-          "badge": "Useful"
-        },
-        {
-          "id": "power-5",
-          "name": "Inverter Battery 200Ah",
-          "brand": "Hamko",
-          "price": 21990,
-          "original_price": 23290,
-          "badge": "Heavy Duty"
-        },
-        {
-          "id": "power-6",
-          "name": "Home UPS 1200VA",
-          "brand": "Apollo",
-          "price": 12490,
-          "original_price": 13890,
-          "badge": "Popular"
-        }
-      ]
-    },
-    {
-      "id": "television",
-      "title": "Television",
-      "accent": "Streaming-ready panels with vivid display quality",
-      "section_key": "television",
-      "products": [
-        {
-          "id": "tv-1",
-          "name": "32 inch HD Smart TV",
-          "brand": "JVC",
-          "price": 18490,
-          "original_price": 19990,
-          "badge": "Android"
-        },
-        {
-          "id": "tv-2",
-          "name": "43 inch Frameless 4K TV",
-          "brand": "Haier",
-          "price": 33990,
-          "original_price": 35990,
-          "badge": "4K"
-        },
-        {
-          "id": "tv-3",
-          "name": "50 inch QLED Google TV",
-          "brand": "Hisense",
-          "price": 51990,
-          "original_price": 55990,
+          "id": "umrah-1",
+          "name": "08 July 2026 Umarh Premium Package",
+          "brand": "Bponi Travel",
+          "price": 165000.0,
+          "original_price": 165000.0,
+          "image": "https://bponi.sgp1.cdn.digitaloceanspaces.com/bponi/store/4a16c0ac-9751-4451-936d-cb06814696fe.jpeg",
           "badge": "Premium"
         },
         {
-          "id": "tv-4",
-          "name": "55 inch UHD Cinema TV",
-          "brand": "Sony",
-          "price": 78990,
-          "original_price": 84990,
-          "badge": "Cinema"
+          "id": "umrah-2",
+          "name": "Umarh Economi packages (22 June 2026)",
+          "brand": "Bponi Travel",
+          "price": 140000.0,
+          "original_price": 140000.0,
+          "image": "https://bponi.sgp1.cdn.digitaloceanspaces.com/bponi/store/0ed9e0bc-1fba-4076-a106-ecc176af5334.jpeg",
+          "badge": "Economy"
         },
         {
-          "id": "tv-5",
-          "name": "24 inch Compact LED TV",
-          "brand": "Walton",
-          "price": 12990,
-          "original_price": 14290,
-          "badge": "Budget"
+          "id": "umrah-3",
+          "name": "2027 Ramadan Umrah Kafela",
+          "brand": "Bponi Travel",
+          "price": 185000.0,
+          "original_price": 185000.0,
+          "image": "https://bponi.sgp1.cdn.digitaloceanspaces.com/bponi/store/b84bbf29-9ec5-4a2c-b420-226be271817e.png",
+          "badge": "Ramadan"
         },
         {
-          "id": "tv-6",
-          "name": "65 inch 4K Smart TV",
-          "brand": "Samsung",
-          "price": 99990,
-          "original_price": 106990,
-          "badge": "Flagship"
+          "id": "umrah-4",
+          "name": "19 February Ramadan Umrah Kafela",
+          "brand": "Bponi Travel",
+          "price": 180000.0,
+          "original_price": 180000.0,
+          "image": "https://bponi.sgp1.cdn.digitaloceanspaces.com/bponi/store/b1ca6fac-3584-4d41-94de-25a4f1d4fd21.jpeg",
+          "badge": "Limited"
         }
       ]
     },
     {
-      "id": "home-appliances",
-      "title": "Home Appliances",
-      "accent": "Everyday helpers for compact and family kitchens",
-      "section_key": "home",
+      "id": "electronics-care",
+      "title": "Electronics & Personal Care",
+      "accent": "Daily essentials and portable tech gadgets",
+      "section_key": "lifestyle",
       "products": [
         {
-          "id": "home-1",
-          "name": "Front Load Washing Machine",
-          "brand": "Panasonic",
-          "price": 44990,
-          "original_price": 48990,
-          "badge": "Wash"
+          "id": "life-1",
+          "name": "REMAX RPP-609 60000mAh Power Bank",
+          "brand": "REMAX",
+          "price": 3550.0,
+          "original_price": 3550.0,
+          "image": "https://bponi.sgp1.cdn.digitaloceanspaces.com/bponi/store/2ca686c2-4a6d-4071-8d25-da947e03e5a8.jpg",
+          "badge": "Fast Charge"
         },
         {
-          "id": "home-2",
-          "name": "Microwave Oven 28L",
-          "brand": "Sharp",
-          "price": 16990,
-          "original_price": 18590,
-          "badge": "Kitchen"
+          "id": "life-2",
+          "name": "Kemei Km-809A Professional Hair Trimmer",
+          "brand": "Kemei",
+          "price": 1500.0,
+          "original_price": 1500.0,
+          "image": "https://bponi.sgp1.cdn.digitaloceanspaces.com/bponi/store/6d663fa1-3bc0-490d-b5a5-b574ab727e57.jpg",
+          "badge": "Pro"
         },
         {
-          "id": "home-3",
-          "name": "Air Fryer 6L Digital",
-          "brand": "Miyako",
-          "price": 7990,
-          "original_price": 8690,
-          "badge": "Healthy"
+          "id": "life-3",
+          "name": "Sunsilk Perfect Straight Shampoo 650ml",
+          "brand": "Sunsilk",
+          "price": 1250.0,
+          "original_price": 1250.0,
+          "image": "https://bponi.sgp1.cdn.digitaloceanspaces.com/bponi/store/c33ccc28-203d-4498-a23f-4f0563d44863.jpg",
+          "badge": "Value Pack"
         },
         {
-          "id": "home-4",
-          "name": "Top Load Washer 8kg",
-          "brand": "Whirlpool",
-          "price": 38990,
-          "original_price": 41590,
-          "badge": "Family"
-        },
-        {
-          "id": "home-5",
-          "name": "Vacuum Cleaner Pro",
-          "brand": "Hitachi",
-          "price": 8990,
-          "original_price": 9990,
-          "badge": "Strong"
-        },
-        {
-          "id": "home-6",
-          "name": "Mini Rice Cooker 1.8L",
-          "brand": "Vision",
-          "price": 3290,
-          "original_price": 3790,
-          "badge": "Daily"
-        }
-      ]
-    },
-    {
-      "id": "best-selling-products",
-      "title": "Best Selling Products",
-      "accent": "Small-ticket favorites customers keep reordering",
-      "section_key": "bestseller",
-      "products": [
-        {
-          "id": "best-1",
-          "name": "Anti Hairfall Serum",
-          "brand": "Glow Lab",
-          "price": 990,
-          "original_price": 1290,
-          "badge": "Top"
-        },
-        {
-          "id": "best-2",
-          "name": "Electric Screwdriver Set",
-          "brand": "Toolix",
-          "price": 4690,
-          "original_price": 5290,
-          "badge": "Useful"
-        },
-        {
-          "id": "best-3",
-          "name": "Heavy Duty Drill Machine",
-          "brand": "Ingco",
-          "price": 6590,
-          "original_price": 7390,
-          "badge": "Workshop"
-        },
-        {
-          "id": "best-4",
-          "name": "Stainless Steel Blender Jar",
-          "brand": "Miyako",
-          "price": 2790,
-          "original_price": 3190,
-          "badge": "Kitchen"
-        },
-        {
-          "id": "best-5",
-          "name": "Ceramic Deep Fry Pan",
-          "brand": "Flora",
-          "price": 2190,
-          "original_price": 2690,
-          "badge": "Cook"
-        },
-        {
-          "id": "best-6",
-          "name": "Mini Facial Trimmer",
-          "brand": "Bin1",
-          "price": 1390,
-          "original_price": 1690,
-          "badge": "Beauty"
-        }
-      ]
-    },
-    {
-      "id": "electronics-gadgets",
-      "title": "Electronics & Gadgets",
-      "accent": "Desk, audio, and personal tech essentials",
-      "section_key": "gadgets",
-      "products": [
-        {
-          "id": "gadgets-1",
-          "name": "Bluetooth Neckband Pro",
-          "brand": "Auralink",
-          "price": 1690,
-          "original_price": 1990,
-          "badge": "Audio"
-        },
-        {
-          "id": "gadgets-2",
-          "name": "RGB Mechanical Keyboard",
-          "brand": "Redgear",
-          "price": 4290,
-          "original_price": 4690,
-          "badge": "Gaming"
-        },
-        {
-          "id": "gadgets-3",
-          "name": "USB Conference Speaker",
-          "brand": "Logi",
-          "price": 3890,
-          "original_price": 4290,
-          "badge": "Office"
-        },
-        {
-          "id": "gadgets-4",
-          "name": "Compact Smart Display",
-          "brand": "Nest",
-          "price": 7990,
-          "original_price": 8490,
-          "badge": "Smart"
-        },
-        {
-          "id": "gadgets-5",
-          "name": "Portable Thermal Printer",
-          "brand": "HPRT",
-          "price": 5890,
-          "original_price": 6390,
-          "badge": "Travel"
-        },
-        {
-          "id": "gadgets-6",
-          "name": "GaN Charger 65W",
-          "brand": "Anker",
-          "price": 2990,
-          "original_price": 3390,
-          "badge": "Fast"
-        }
-      ]
-    },
-    {
-      "id": "security-accessories",
-      "title": "Security Accessories",
-      "accent": "Keep homes and offices monitored around the clock",
-      "section_key": "security",
-      "products": [
-        {
-          "id": "security-1",
-          "name": "Outdoor Bullet Camera",
-          "brand": "Dahua",
-          "price": 2590,
-          "original_price": 2990,
-          "badge": "IP66"
-        },
-        {
-          "id": "security-2",
-          "name": "4 Channel DVR Recorder",
-          "brand": "Hikvision",
-          "price": 6290,
-          "original_price": 6990,
-          "badge": "CCTV"
-        },
-        {
-          "id": "security-3",
-          "name": "Motion Sensor Indoor Cam",
-          "brand": "IMOU",
-          "price": 3190,
-          "original_price": 3690,
-          "badge": "WiFi"
-        },
-        {
-          "id": "security-4",
-          "name": "Smart Doorbell Camera",
-          "brand": "Ezviz",
-          "price": 5290,
-          "original_price": 5790,
-          "badge": "Door"
-        },
-        {
-          "id": "security-5",
-          "name": "Full HD Dome Camera",
-          "brand": "Uniview",
-          "price": 2390,
-          "original_price": 2790,
-          "badge": "Indoor"
-        },
-        {
-          "id": "security-6",
-          "name": "NVR Storage Unit",
-          "brand": "Hikvision",
-          "price": 8990,
-          "original_price": 9690,
-          "badge": "Storage"
-        }
-      ]
-    },
-    {
-      "id": "networking",
-      "title": "Networking",
-      "accent": "Modern coverage for apartments, homes, and offices",
-      "section_key": "network",
-      "products": [
-        {
-          "id": "network-1",
-          "name": "Dual Band Gigabit Router",
-          "brand": "TP-Link",
-          "price": 3990,
-          "original_price": 4490,
-          "badge": "AC1200"
-        },
-        {
-          "id": "network-2",
-          "name": "Mesh WiFi Twin Pack",
-          "brand": "Mercusys",
-          "price": 8990,
-          "original_price": 9690,
-          "badge": "Mesh"
-        },
-        {
-          "id": "network-3",
-          "name": "5 Port Gigabit Switch",
-          "brand": "Netis",
-          "price": 1790,
-          "original_price": 2190,
-          "badge": "LAN"
-        },
-        {
-          "id": "network-4",
-          "name": "CAT6 Crimping Tool Kit",
-          "brand": "Ugreen",
-          "price": 1490,
-          "original_price": 1890,
-          "badge": "Install"
-        },
-        {
-          "id": "network-5",
-          "name": "Indoor Access Point",
-          "brand": "Ruijie",
-          "price": 5590,
-          "original_price": 6190,
-          "badge": "Business"
-        },
-        {
-          "id": "network-6",
-          "name": "Mini UPS for Router",
-          "brand": "Marsriva",
-          "price": 2490,
-          "original_price": 2890,
-          "badge": "Backup"
+          "id": "life-4",
+          "name": "Umrah Saving Box",
+          "brand": "Generic",
+          "price": 360.0,
+          "original_price": 360.0,
+          "image": "https://bponi.sgp1.cdn.digitaloceanspaces.com/bponi/store/a958032f-ccd2-4bcc-8b72-4681d05f55ff.jpeg",
+          "badge": "Essential"
         }
       ]
     }
   ]
+
 }

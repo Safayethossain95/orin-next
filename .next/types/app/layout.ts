@@ -1,4 +1,4 @@
-// File: /Users/dev3/safayet/personal-projects/orin-next/app/layout.tsx
+// File: G:\THE NEXT STEP\CODE\orin-next\app\layout.tsx
 import * as entry from '../../../app/layout.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

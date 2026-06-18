@@ -1,4 +1,4 @@
-// File: /Users/dev3/safayet/personal-projects/orin-next/app/checkout/page.tsx
+// File: G:\THE NEXT STEP\CODE\orin-next\app\checkout\page.tsx
 import * as entry from '../../../../app/checkout/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

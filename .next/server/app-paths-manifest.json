@@ -1,10 +1,8 @@
 {
-  "/categories/page": "app/categories/page.js",
-  "/page": "app/page.js",
-  "/product/new/page": "app/product/new/page.js",
-  "/product/flash/page": "app/product/flash/page.js",
-  "/brands/page": "app/brands/page.js",
-  "/_not-found/page": "app/_not-found/page.js",
   "/checkout/page": "app/checkout/page.js",
-  "/login/page": "app/login/page.js"
+  "/register/page": "app/register/page.js",
+  "/user/page": "app/user/page.js",
+  "/login/page": "app/login/page.js",
+  "/page": "app/page.js",
+  "/product/[slug]/[id]/page": "app/product/[slug]/[id]/page.js"
 }

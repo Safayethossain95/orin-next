@@ -1,6 +1,7 @@
 import type { ApiResponse, AuthUser } from "./types";
 
-const API_BASE_URL = process.env.NEXT_PUBLIC_API_BASE_URL ?? "http://localhost:5000/api/v1";
+const API_BASE_URL =
+  process.env.NEXT_PUBLIC_API_BASE_URL ?? "http://localhost:5000/api/v1";
 const TOKEN_KEY = "orin-next.access-token";
 
 export function getStoredToken() {
@@ -39,19 +40,30 @@ async function apiRequest<T>(path: string, options: RequestInit = {}) {
 }
 
 export async function login(payload: { email: string; password: string }) {
-  const response = await apiRequest<{ token: string; user: AuthUser }>("/auth/login", {
-    method: "POST",
-    body: JSON.stringify(payload),
-  });
+  const response = await apiRequest<{ token: string; user: AuthUser }>(
+    "/auth/login",
+    {
+      method: "POST",
+      body: JSON.stringify(payload),
+    },
+  );
   if (response.data?.token) setStoredToken(response.data.token);
   return response.data?.user ?? null;
 }
 
-export async function register(payload: { name: string; email: string; password: string; phone?: string }) {
-  const response = await apiRequest<{ token: string; user: AuthUser }>("/auth/register", {
-    method: "POST",
-    body: JSON.stringify(payload),
-  });
+export async function register(payload: {
+  name: string;
+  email: string;
+  password: string;
+  phone?: string;
+}) {
+  const response = await apiRequest<{ token: string; user: AuthUser }>(
+    "/auth/register",
+    {
+      method: "POST",
+      body: JSON.stringify(payload),
+    },
+  );
   if (response.data?.token) setStoredToken(response.data.token);
   return response.data?.user ?? null;
 }
@@ -64,4 +76,32 @@ export async function currentUser() {
 export async function logout() {
   await apiRequest("/auth/logout", { method: "POST" }).catch(() => null);
   clearStoredToken();
+}
+
+export async function createOrder(payload: {
+  name: string;
+  address: string;
+  phone: string;
+  items: any;
+  subtotal: number;
+  shipping: any;
+  total: number;
+  createdAt: string;
+}) {
+  const bodyPayload = {
+    ...payload,
+    shippingAddress: {
+      street: payload.address,
+      city: "",
+      state: "",
+      postalCode: "",
+      country: "",
+    },
+  };
+
+  const response = await apiRequest<{ orderId: string }>("/orders/create-order", {
+    method: "POST",
+    body: JSON.stringify(bodyPayload)
+  });
+  return response.data?.orderId ?? null;
 }
