@@ -1,7 +1,7 @@
 import type { ApiResponse, AuthUser } from "./types";
 
 const API_BASE_URL =
-  process.env.NEXT_PUBLIC_API_BASE_URL ?? "http://localhost:5000/api/v1";
+  process.env.NEXT_PUBLIC_API_BASE_URL ?? "https://orin-ecom-backend.vercel.app/api/v1";
 const TOKEN_KEY = "orin-next.access-token";
 
 export function getStoredToken() {
@@ -10,7 +10,9 @@ export function getStoredToken() {
 }
 
 export function setStoredToken(token: string) {
-  window.localStorage.setItem(TOKEN_KEY, token);
+  if (typeof window !== "undefined") {
+    window.localStorage.setItem(TOKEN_KEY, token);
+  }
 }
 
 export function clearStoredToken() {
@@ -23,7 +25,7 @@ async function apiRequest<T>(path: string, options: RequestInit = {}) {
   const token = getStoredToken();
   const response = await fetch(`${API_BASE_URL}${path}`, {
     ...options,
-    credentials: "include",
+    credentials: "same-origin",
     headers: {
       "Content-Type": "application/json",
       ...(token ? { Authorization: `Bearer ${token}` } : {}),

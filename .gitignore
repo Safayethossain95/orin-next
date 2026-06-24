@@ -4,7 +4,7 @@ dist
 .vercel
 .netlify
 .vinxi
-.next
+.next/
 app.config.timestamp_*.js
 
 # Environment
